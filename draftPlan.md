@@ -17,7 +17,7 @@
   - Average Cycle Length: 28 days
   - Next Period Start Date = December 1 + 28 = December 29
 
-### **2. Calculating the Fertile Window**
+### **2.Calculating the Fertile Window**
 
 Ovulation typically occurs 14 days before the start of the next period.
 
