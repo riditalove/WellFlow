@@ -1,6 +1,7 @@
 ## Features
 ![image](https://github.com/user-attachments/assets/d5b8bf71-fd52-4241-93c8-aa6483dae729)
 
+
 ## Mathematical Terms
 ### **Key Concepts and Assumptions**
 1. **Cycle Length:** Average length of a menstrual cycle (e.g., 28 days).
